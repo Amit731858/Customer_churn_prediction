@@ -37,7 +37,4 @@ This project aims to identify customers likely to churn (i.e., cancel their subs
 
 ## 🛠 Installation & Setup
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Amit731858/Customer_churn_prediction.git
-   cd Customer_churn_prediction
+
