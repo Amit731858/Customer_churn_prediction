@@ -35,6 +35,8 @@ This project aims to identify customers likely to churn (i.e., cancel their subs
 
 ---
 
-## 🛠 Installation & Setup
+# My Streamlit App  
+
+Click here to open the app 👉 [Live Demo](https://customerchurnpredictiongit-5exxcv6pctd986pa88xtpw.streamlit.app/) 
 
 
